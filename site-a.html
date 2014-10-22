@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Composant auto chargée SITE A</title>
+	</head>
+	<body>
+		<div>		
+			<h1>Composant auto chargée SITE A</h1>
+			<p>Le but est de permettre à des comporants tiers isolés dans des fichiers d'être automatiquement exécuté en cas de présence dans le HTML.</p>
+			<ul>
+				<li>Le composant doit être dans un fichier séparé.</li>
+				<li>Il ne doit pas être nécessaire de faire un appel explicite dans le code.</li>
+			</ul>
+		</div>
+
+		<section class="alpha-component">
+			<h2>Alpha Component</h2>
+			Ceci est le premier « Alpha Component » de la page.
+			<div>In progress...</div>
+		</section>
+
+		<section class="beta-component">
+			<h2>Beta Component</h2>
+			Ceci est le « Beta Component » de la page.
+			<div>In progress...</div>
+		</section>
+
+		<section class="alpha-component">
+			<h2>Alpha Component</h2>
+			Ceci est le deuxième « Alpha Component » de la page.
+			<div>In progress...</div>
+		</section>
+
+		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+ 		<!-- Toute cette partie est a gérer dans les Bundles -->
+		<script type="text/javascript" src="./js/shared-components/alpha-component.js"></script>
+		<script type="text/javascript" src="./js/shared-components/beta-component.js"></script>
+		<script type="text/javascript" src="./js/site-a/common.js"></script>
+	</body>
+</html>
