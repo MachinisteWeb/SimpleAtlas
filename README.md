@@ -45,7 +45,7 @@ Les deux pages seront à :
 
 __*Note :*__
 
-Si vous avez déjà un serveur web sur le port 80, utilisez plutôt :*
+*Si vous avez déjà un serveur web sur le port 80, utilisez plutôt :*
 
 ```
 \> node </path/to/>node-atlas/node-atlas.js --httpPort 7777
