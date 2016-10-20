@@ -37,7 +37,7 @@ Pour tester l'exemple dans de vrais conditions, il vous faudra installer [NodeAt
 et utilisez la commande :
 
 ```
-\> node </path/to/>node-atlas/node-atlas.js
+\> node </path/to/>node-atlas/
 ```
 
 Les deux pages seront à :
@@ -50,7 +50,7 @@ __*Note :*__
 *Si vous avez déjà un serveur web sur le port 80, utilisez plutôt :*
 
 ```
-\> node </path/to/>node-atlas/node-atlas.js --httpPort 7777
+\> node </path/to/>node-atlas/ --httpPort 7777
 ```
 
 *Les deux pages seront à :*
@@ -93,7 +93,7 @@ To test the example in real environment, you need to install [NodeAtlas](http://
 and use the command:
 
 ```
-\> node </path/to/>node-atlas/node-atlas.js
+\> node </path/to/>node-atlas/
 ```
 
 The two pages will be to:
@@ -106,7 +106,7 @@ __*Note :*__
 *If you already have a web server on port 80, consider using:*
 
 ```
-\> node </path/to/>node-atlas/node-atlas.js --httpPort 7777
+\> node </path/to/>node-atlas/ --httpPort 7777
 ```
 
 *The two pages will be to:*
