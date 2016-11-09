@@ -14,7 +14,7 @@ SinpleAtlas est :
 - Un exemple de structure JavaScript permettant de délivrer ses fonctions par composant et de les exécuter au chargement ou en retour AJAX sans $(document).ready().
 - un exemple de site tournant avec [NodeAtlas](http://haeresis.github.io/NodeAtlas/) en tant que simple serveur web.
 
-**Il fait office d'exemple pour l'article : [Éviter les multiples $(document).ready() dans vos pages web](http://blog.lesieur.name/eviter-les-multiples-jquery-document-ready-dans-vos-pages-web/)**
+**Il fait office d'exemple pour l'article : [Éviter les multiples $(document).ready() dans vos pages web](https://blog.lesieur.name/eviter-les-multiples-jquery-document-ready-dans-vos-pages-web/)**
 
 
 
@@ -70,7 +70,7 @@ SinpleAtlas is :
 - an example of a JavaScript framework for delivering fonctionnality by component and run them in loading of page or after an AJAX request without $(document).ready().
 - an example of website running with [NodeAtlas](http://haeresis.github.io/NodeAtlas/) as a simple web server.
 
-**It used as an example for the article : [Éviter les multiples $(document).ready() dans vos pages web](http://blog.lesieur.name/eviter-les-multiples-jquery-document-ready-dans-vos-pages-web/)** (Fr)
+**It used as an example for the article : [Éviter les multiples $(document).ready() dans vos pages web](https://blog.lesieur.name/eviter-les-multiples-jquery-document-ready-dans-vos-pages-web/)** (Fr)
 
 
 
